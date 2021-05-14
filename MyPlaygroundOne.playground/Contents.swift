@@ -28,3 +28,11 @@ var listsDate = ["qaz", " was", "joy"]
 listsDate.count
 listsDate[0].uppercased()
 listsDate[listsDate.count - 1]
+listsDate.last
+listsDate.sort()
+
+var mySet : Set = [1, 4, 8, 9]
+mySet.first
+var myArrayNext = [56,76,2345]
+myArrayNext.append(900)
+myArrayNext
