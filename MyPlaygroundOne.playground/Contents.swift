@@ -16,3 +16,5 @@ let id = 2.55
 
 age / id
 
+var myBoolean = false
+myBoolean = true
