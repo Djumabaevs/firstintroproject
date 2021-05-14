@@ -21,6 +21,10 @@ myBoolean = true
 
 var integerMy: Int = 5
 
-var listOfSeasons = ["spring", "summer"]
+var listOfSeasons = ["spring", "summer"] as [Any]
 
+var listsDate = ["qaz", " was", "joy"]
 
+listsDate.count
+listsDate[0].uppercased()
+listsDate[listsDate.count - 1]
