@@ -18,3 +18,9 @@ age / id
 
 var myBoolean = false
 myBoolean = true
+
+var integerMy: Int = 5
+
+var listOfSeasons = ["spring", "summer"]
+
+
