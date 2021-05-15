@@ -38,7 +38,11 @@ myArrayNext.append(900)
 myArrayNext
 
 var internetArray = [3,5,6,2,2,2]
-var internetSet = [76,34]
+var internetSet : Set = [76,34]
 var combineSet = Set(internetArray)
 print(combineSet)
+
+var combineSet2 : Set = [76, 34, 55]
+var resultSet = internetSet.union(combineSet)
+
 
