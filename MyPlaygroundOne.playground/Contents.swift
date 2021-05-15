@@ -45,4 +45,6 @@ print(combineSet)
 var combineSet2 : Set = [76, 34, 55]
 var resultSet = internetSet.union(combineSet)
 
+var dictionaryMy = ["hello" : "1", "bye" : "2"]
+print(dictionaryMy)
 
