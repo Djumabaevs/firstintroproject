@@ -48,3 +48,15 @@ var resultSet = internetSet.union(combineSet)
 var dictionaryMy = ["hello" : "1", "bye" : "2"]
 print(dictionaryMy)
 
+var number = 1
+while number < 10 {
+    print(number)
+    number += 1
+}
+
+
+var isTrue = true
+while isTrue {
+    
+}
+
