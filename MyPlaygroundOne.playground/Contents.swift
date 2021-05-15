@@ -54,9 +54,8 @@ while number < 10 {
     number += 1
 }
 
-
-var isTrue = true
-while isTrue {
-    
+var fruitArray = ["Banana", "Apple", "Orange"]
+for fruit in fruitArray {
+    print(fruit)
 }
 
