@@ -36,3 +36,9 @@ mySet.first
 var myArrayNext = [56,76,2345]
 myArrayNext.append(900)
 myArrayNext
+
+var internetArray = [3,5,6,2,2,2]
+var internetSet = [76,34]
+var combineSet = Set(internetArray)
+print(combineSet)
+
