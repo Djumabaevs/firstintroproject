@@ -59,3 +59,6 @@ for fruit in fruitArray {
     print(fruit)
 }
 
+for myInteger in 1 ... 15 {
+    print(myInteger * 2)
+}
