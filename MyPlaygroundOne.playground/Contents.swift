@@ -66,3 +66,9 @@ var myAge = 35
 if myAge > 30 && myAge < 39 {
     print("you are a millionaire")
 }
+
+func sumOfTwoNumbers(x: Int, y: Int) {
+    print(x + y)
+}
+
+sumOfTwoNumbers(x: 4, y: 3)
