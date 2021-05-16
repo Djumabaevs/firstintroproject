@@ -72,3 +72,9 @@ func sumOfTwoNumbers(x: Int, y: Int) {
 }
 
 sumOfTwoNumbers(x: 4, y: 3)
+
+func multiplyOfTwoNum(a: Int, b: Int) -> Int {
+    return a * b
+}
+
+let funVariable = multiplyOfTwoNum(a: 10, b: 90)
