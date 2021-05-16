@@ -62,3 +62,7 @@ for fruit in fruitArray {
 for myInteger in 1 ... 15 {
     print(myInteger * 2)
 }
+var myAge = 35
+if myAge > 30 && myAge < 39 {
+    print("you are a millionaire")
+}
