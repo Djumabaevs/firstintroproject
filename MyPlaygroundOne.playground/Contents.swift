@@ -86,3 +86,9 @@ myName?.uppercased()
 
 var hisAge = "7"
 var hisInteger = (Int(hisAge) ?? 0) * 5
+
+if let herAge = Int(hisAge) {
+    print(herAge * 5)
+} else {
+    print("wrong input")
+}
