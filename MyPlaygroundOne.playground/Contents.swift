@@ -78,3 +78,6 @@ func multiplyOfTwoNum(a: Int, b: Int) -> Int {
 }
 
 let funVariable = multiplyOfTwoNum(a: 10, b: 90)
+
+var myName: String?
+myName?.uppercased()
