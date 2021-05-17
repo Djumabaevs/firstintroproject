@@ -81,3 +81,7 @@ let funVariable = multiplyOfTwoNum(a: 10, b: 90)
 
 var myName: String?
 myName?.uppercased()
+
+myName!.lowercased()
+
+
