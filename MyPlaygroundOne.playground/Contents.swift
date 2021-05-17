@@ -82,6 +82,7 @@ let funVariable = multiplyOfTwoNum(a: 10, b: 90)
 var myName: String?
 myName?.uppercased()
 
-myName!.lowercased()
+//myName??.lowercased()
 
-
+var hisAge = "7"
+var hisInteger = (Int(hisAge) ?? 0) * 5
